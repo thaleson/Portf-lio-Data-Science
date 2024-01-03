@@ -22,6 +22,7 @@
 
 ## Projetos:
 * **Data Science: Analise de Suicidio no Brasil :** https://github.com/thaleson/datascience/blob/main/projetos.ipynb
+* **Machine Learning para detectar câncer de mama :** https://github.com/thaleson/datascience/blob/main/Machine_Learning_para_a_Detecção_do_Câncer_de_Mama.ipynb
 
 
 
