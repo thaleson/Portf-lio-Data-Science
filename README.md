@@ -9,9 +9,9 @@
 </p>
 
 # Thaleson silva
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist*</sub>
 
-"🚀 Explorador do mundo binário e artífice da inteligência. Transformando linhas de código em soluções mágicas 💡. Apaixonado por Python 🐍 e alquimia de IA 🤖. Construo pontes entre bits e neurônios, criando o futuro com dados e algoritmos. Entusiasta de aprendizado de máquina, visão computacional e processamento de linguagem natural. Pronto para desvendar os segredos do universo digital! 🌌✨ #PythonWizard #AprendizadoDeMáquina
+🚀 Transformando linhas de código em soluções mágicas . Desenvolvedor Python 🐍 especfializado  em IA 🤖. Construo pontes entre bits e neurônios, criando o futuro com dados e algoritmos. focado em visão computacional.
 
 **Background in:** Python, Machine Learning.
 
@@ -21,15 +21,8 @@
 
 
 ## Projetos:
+* **Data Science: Analise de Suicidio no Brasil :** https://github.com/thaleson/datascience/blob/main/projetos.ipynb
 
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 
 
