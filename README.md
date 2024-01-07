@@ -1,4 +1,4 @@
-# Meu_portifolio_de_projetos_Data_Science
+# Portfólio Data Science 
 
 ![banner](https://github.com/thaleson/Meu_portifolio_de_projetos_Data_Science/assets/78983785/45efd0da-8847-4573-a433-78c526b7d241)
 
