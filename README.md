@@ -21,10 +21,11 @@
 
 
 ## Projetos:
-* **Data Science: Analise de Suicidio no Brasil :** https://github.com/thaleson/datascience/blob/main/projetos.ipynb
-* **Machine Learning para detectar câncer de mama :** https://github.com/thaleson/datascience/blob/main/Machine_Learning_para_a_Detecção_do_Câncer_de_Mama.ipynb
-* **Data Science: Analise de dados do COVID-19 :** https://github.com/thaleson/datascience/blob/main/CoronaVirusBrasil.ipynb
-* **Data Science: Analise de dados do Airbnb New York City :** https://github.com/thaleson/datascience/blob/main/analisededaodsairbNewyork.ipynb
+* **Data Science: Analise de Suicidio no Brasil** : https://github.com/thaleson/datascience/blob/main/projetos.ipynb
+* **Machine Learning para detectar câncer de mama** : https://github.com/thaleson/datascience/blob/main/Machine_Learning_para_a_Detecção_do_Câncer_de_Mama.ipynb
+* **Data Science: Analise de dados do COVID-19**  : https://github.com/thaleson/datascience/blob/main/CoronaVirusBrasil.ipynb
+* **Data Science: Analise de dados do Airbnb New York City** : https://github.com/thaleson/datascience/blob/main/analisededaodsairbNewyork.ipynb
+* **Machine Learning para Detecção de Fraude em Cartões de Crédito** : https://github.com/thaleson/datascience/blob/main/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb
 
 
 
