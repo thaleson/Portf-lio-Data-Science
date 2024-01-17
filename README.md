@@ -26,7 +26,7 @@
 * **Data Science: Analise de dados do COVID-19**  : https://github.com/thaleson/datascience/blob/main/CoronaVirusBrasil.ipynb
 * **Data Science: Analise de dados do Airbnb New York City** : https://github.com/thaleson/datascience/blob/main/analisededaodsairbNewyork.ipynb
 * **Machine Learning para Detecção de Fraude em Cartões de Crédito** : https://github.com/thaleson/datascience/blob/main/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb
-
+* **Machine Learning Churn_Prediction_** : https://github.com/thaleson/datascience/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb
 
 
 
