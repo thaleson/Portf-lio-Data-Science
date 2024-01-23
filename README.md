@@ -28,9 +28,7 @@
 * **Machine Learning para Detecção de Fraude em Cartões de Crédito** : https://github.com/thaleson/datascience/blob/main/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb
 * **Machine Learning Churn_Prediction_** : https://github.com/thaleson/datascience/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb
 * **PROJETO REGRESSÃO Com Pycaret** : https://github.com/thaleson/datascience/blob/main/Regress%C3%A3o_com_PyCaret.ipynb
-
-
-
+* **Data Science: Analise de dados Spotify and Youtube** https://github.com/thaleson/datascience/blob/main/Analise_de_Dados_Spotify_Youtube.ipynb
 
 
 
